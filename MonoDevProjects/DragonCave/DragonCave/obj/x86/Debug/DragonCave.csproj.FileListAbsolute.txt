@@ -1,0 +1,5 @@
+C:\Users\sasqu\Documents\Projects\DragonCave\DragonCave\obj\x86\Debug\DragonCave.csprojResolveAssemblyReference.cache
+C:\Users\sasqu\Documents\Projects\DragonCave\DragonCave\bin\Debug\DragonCave.exe
+C:\Users\sasqu\Documents\Projects\DragonCave\DragonCave\bin\Debug\DragonCave.pdb
+C:\Users\sasqu\Documents\Projects\DragonCave\DragonCave\obj\x86\Debug\DragonCave.exe
+C:\Users\sasqu\Documents\Projects\DragonCave\DragonCave\obj\x86\Debug\DragonCave.pdb
